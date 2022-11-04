@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionStudy", "..\Refle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesStudy", "..\ReflectionStudy\DelegatesStudy\DelegatesStudy.csproj", "{1BF1645D-2259-492F-81B6-B3F1DC7BBA80}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributesStudy", "..\AttributesStudy\AttributesStudy\AttributesStudy.csproj", "{86AEAB54-0EBD-497B-9049-2DAF189174D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "..\DataStructuresAndAlgorithms\DataStructures\DataStructures.csproj", "{F6E76DE7-E1B5-4435-BDC7-98D58DA9BDF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{1BF1645D-2259-492F-81B6-B3F1DC7BBA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF1645D-2259-492F-81B6-B3F1DC7BBA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF1645D-2259-492F-81B6-B3F1DC7BBA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AEAB54-0EBD-497B-9049-2DAF189174D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AEAB54-0EBD-497B-9049-2DAF189174D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AEAB54-0EBD-497B-9049-2DAF189174D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AEAB54-0EBD-497B-9049-2DAF189174D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E76DE7-E1B5-4435-BDC7-98D58DA9BDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E76DE7-E1B5-4435-BDC7-98D58DA9BDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E76DE7-E1B5-4435-BDC7-98D58DA9BDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E76DE7-E1B5-4435-BDC7-98D58DA9BDF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
